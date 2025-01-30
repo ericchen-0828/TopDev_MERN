@@ -1,6 +1,7 @@
 # Node modules
 /node_modules
 /server/node_modules
+/client/notd_modules
 # Build directories
 /client/build
 /server/build
